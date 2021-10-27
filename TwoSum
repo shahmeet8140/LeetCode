@@ -8,7 +8,7 @@ class Solution {
     // }
     
     
-    
+    // Creat HashMap 
         HashMap <Integer, Integer> meet = new HashMap<Integer, Integer>();
         for(int i=0; i< numbers.length; i++) {
             meet.put(numbers[i], i); 
